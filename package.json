@@ -1,0 +1,13 @@
+{
+    "name": "com.bit34games.flowgraph",
+    "displayName": "Bit34 Flow Graph - A directed graph library for Unity",
+    "version": "0.1.0",
+    "description": "This is directed graph library. It has visual editor, history, and serializations features",
+    "unity": "2018.4",
+    "documentationUrl": "https://github.com/bit34/bit34-flowgraph/",
+    "author":
+    {
+      "name": "Bit34 Games",
+      "url": "https://github.com/bit34"
+    }
+}
